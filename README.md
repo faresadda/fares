@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Fares Adda Logo" width="90" style="border-radius:12px;">
+  <img src="/logo.png" alt="Fares Adda Logo" width="90" style="border-radius:12px;">
 </p>
 
 <h1 align="center">Fares Adda Portfolio 🚀</h1>
