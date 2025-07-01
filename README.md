@@ -1,8 +1,5 @@
- <p align="center">
-  <img src="public/logo.png" alt="Fares Adda Logo" width="90" style="border-radius:12px;">
-</p>
 
-<h1 align="center">Fares Adda Portfolio 🚀</h1>
+<h1 align="center">🚀 Fares Adda Full Stack Developer</h1>
 
 <p align="center">
   <a href="https://faresadda.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"></a>
@@ -28,6 +25,8 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 ---
 
 ## 🛠️ Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -37,9 +36,6 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
 ---
 
 ## 🗂️ Projects
@@ -48,8 +44,7 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 | Trading Platform  | Real-time trading dashboard | [View](https://faresadda.vercel.app/projects) |
 | Weather App       | Modern weather forecast app | [View](https://faresadda.vercel.app/projects) |
 | Ushop             | E-commerce platform         | [View](https://faresadda.vercel.app/projects) |
-| Portfolio Website | Personal portfolio & CV     | [View](https://faresadda.vercel.app) |
-| Feedback System   | Collects user feedback      | [View](https://faresadda.vercel.app/projects) |
+| Chat AI           | chat bot                    | [View](https://faresadda.vercel.app/projects) |
 
 ---
 
