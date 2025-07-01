@@ -3,6 +3,8 @@
 
 <p align="center">
    <a href="https://faresadda.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=vercel"></a>
+</p>
+<p align="center">
    <a href="mailto:faresadda2001@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&style=flat-square"></a>
 </p>
 
