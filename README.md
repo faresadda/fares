@@ -1,4 +1,4 @@
-# 🚀 Fares Adda Portfolio - Next.js
+# 🚀 Fares Adda Full Stack Developer
 
 A modern, responsive personal portfolio website built with [Next.js](https://nextjs.org/). This project showcases the work, skills, and services of **Fares Adda** — Full Stack Developer & Tech Consultant — and provides an easy way for clients and collaborators to get in touch.
 
