@@ -1,22 +1,46 @@
-# Fares Adda Portfolio - Next.js
+# 🚀 Fares Adda Portfolio - Next.js
 
-A modern, responsive personal portfolio website built with [Next.js](https://nextjs.org/). This project showcases the work, skills, and services of **Fares Adda** (Full Stack Developer & Tech Consultant), and provides an easy way for clients and collaborators to get in touch.
+A modern, responsive personal portfolio website built with [Next.js](https://nextjs.org/). This project showcases the work, skills, and services of **Fares Adda** — Full Stack Developer & Tech Consultant — and provides an easy way for clients and collaborators to get in touch.
 
 ---
 
-## 🚀 Live Demo
-[https://faresadda.vercel.app](https://faresadda.vercel.app)
+## 👤 About
+Hi! I'm **Fares Adda**, a passionate Full Stack Developer and Tech Consultant based in Boumerdes, Algeria. I specialize in building robust web applications, modern UIs, and scalable solutions for businesses and individuals. My portfolio highlights my experience, projects, and the services I offer.
 
 ---
 
 ## ✨ Features
-- Clean, modern, and fully responsive design
-- About, Projects, Services, and Skills sections
-- Downloadable CV
-- Contact form with email notifications (user & admin)
-- Social media links
-- Professional email templates
-- Dark footer with copyright
+- ⚡️ Fast, modern, and fully responsive design
+- 🏠 About, Projects, Services, and Skills sections
+- 📄 Downloadable CV
+- 📬 Contact form with email notifications (user & admin)
+- 🌐 Social media links
+- 💌 Professional email templates
+- 🌓 Dark footer with copyright
+
+---
+
+## 🛠️ Skills
+- **Languages:** JavaScript (ES6+), TypeScript, Python
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, PostgreSQL
+- **Other:** Git, Docker, CI/CD, Email Automation
+
+---
+
+## 🗂️ Projects
+- **Trading Platform** – Real-time trading dashboard with live data ([Demo](https://faresadda.vercel.app))
+- **Weather App** – Modern weather forecast app ([Demo](https://faresadda.vercel.app))
+- **Ushop** – E-commerce platform ([Demo](https://faresadda.vercel.app))
+- **Portfolio Website** – This site! ([Demo](https://faresadda.vercel.app))
+
+> See more on the [Projects page](https://faresadda.vercel.app/projects)
+
+---
+
+## 🌍 Live Demo
+[faresadda.vercel.app](https://faresadda.vercel.app)
 
 ---
 
