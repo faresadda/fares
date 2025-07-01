@@ -1,10 +1,9 @@
 
-<h1 align="center">🚀 Fares Adda Full Stack Developer</h1>
+<h1 align="center">🚀 Fares Adda <br/> Full Stack Developer</h1>
 
 <p align="center">
-  <a href="https://faresadda.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"></a>
-  <a href="https://github.com/faresadda"><img src="https://img.shields.io/badge/GitHub-faresadda-blue?logo=github&style=flat-square"></a>
-  <a href="mailto:faresadda2001@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&style=flat-square"></a>
+   <a href="https://faresadda.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blueviolet?style=for-the-        badge&logo=vercel"></a>
+   <a href="mailto:faresadda2001@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&style=flat-square"></a>
 </p>
 
 ---
@@ -28,14 +27,13 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ---
 
 ## 🗂️ Projects
@@ -48,12 +46,6 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 
 ---
 
-## 🌍 Live Demo
-<p align="center">
-  <a href="https://faresadda.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=vercel"></a>
-</p>
-
----
 
 ## 📬 Contact & Social
 
@@ -70,5 +62,5 @@ Hi! I'm **Fares Adda**, a Full Stack Developer & Tech Consultant based in Boumer
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Fares Adda</b>
+  <b>&copy;2025 All rights reserved by Fares Adda.</b>
 </p>
